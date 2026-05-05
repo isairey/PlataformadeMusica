@@ -41,7 +41,7 @@ Aplicación multiplataforma para streaming de música desarrollada con **Flutter
 
 > ⚠️ Elige solo una fuente para instalar el APK, no podrás actualizar entre diferentes fuentes.
 
-<a href="https://github.com/isairey/PlataformadeMusica/releases/latest">
+<a href="https://github.com/isairey/PlataformadeMusica/releases/V1">
   <img src="https://github.com/isairey/PlataformadeMusica/blob/main/don_github.png" width="250">
 </a>
 
