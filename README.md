@@ -1,8 +1,4 @@
-<div align="center">
 
-# ❗ Este repositorio ya no se mantiene
-
-</div>
 
 <img src="https://github.com/isairey/PlataformadeMusica/blob/main/cover.png" width="1200">
 
