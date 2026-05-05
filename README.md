@@ -1,93 +1,124 @@
 <div align="center">
 
-# ❗**This repository is no longer maintained.**
+# ❗ Este repositorio ya no se mantiene
 
 </div>
 
-<img src="https://github.com/anandnet/Harmony-Music/blob/main/cover.png" width="1200" >
+<img src="https://github.com/anandnet/Harmony-Music/blob/main/cover.png" width="1200">
 
-# Harmony Music
-A cross platform app for music streaming made with Flutter(Android, Windows, linux).
+# 🎵 Harmony Music
 
-# Features
-* Ability to play song from Ytube/Ytube Music.
-* Song cache while playing
-* Radio feature support
-* Background music
-* Playlist creation & bookmark support
-* Artist & Album bookmark support
-* Import song,Playlist,Album,Artist via sharing from Ytube/Ytube Music.
-* Streaming quality control
-* Song downloading support
-* Language support
-* Skip silence
-* Dynamic Theme
-* Flexibility to switch between Bottom & Side Nav bar
-* Equalizer support
-* Android Auto support
-* Synced & Plain Lyrics support
-* Sleep Timer
-* No Advertisment
-* No Login required
-* Piped playlist integration
+Aplicación multiplataforma para streaming de música desarrollada con **Flutter** (Android, Windows y Linux).
 
+---
 
-# Download
-* Pleass choose one source for android apk. you won't be able to update from cross build apk source.
+## 🚀 Características
 
-<a href="https://github.com/anandnet/Harmony-Music/releases/latest"><img src ="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width = "250"></a> <a href= "https://f-droid.org/packages/com.anandnet.harmonymusic"><img src = "https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width = '250'></a></a> 
+* ▶️ Reproducción de música desde YouTube / YouTube Music
+* 💾 Caché de canciones durante la reproducción
+* 📻 Función de radio
+* 🎧 Reproducción en segundo plano
+* 📂 Creación de playlists y favoritos
+* ⭐ Marcado de artistas y álbumes
+* 🔗 Importación de canciones/playlists desde YouTube
+* ⚙️ Control de calidad de streaming
+* ⬇️ Descarga de canciones
+* 🌍 Soporte multilenguaje
+* 🔇 Opción para omitir silencios
+* 🎨 Tema dinámico
+* 📱 Cambio entre barra inferior o lateral
+* 🎚️ Soporte de ecualizador
+* 🚗 Compatibilidad con Android Auto
+* 📝 Letras sincronizadas y normales
+* ⏲️ Temporizador de apagado
+* 🚫 Sin anuncios
+* 🔓 Sin necesidad de iniciar sesión
+* 🔌 Integración con playlists de Piped
 
-# Translation
-<a href="https://hosted.weblate.org/engage/harmony-music/">
-<img src="https://hosted.weblate.org/widget/harmony-music/project-translations/multi-auto.svg" alt="Translation status" />
+---
+
+## 📥 Descarga
+
+> ⚠️ Elige solo una fuente para instalar el APK, no podrás actualizar entre diferentes fuentes.
+
+<a href="https://github.com/anandnet/Harmony-Music/releases/latest">
+  <img src="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width="250">
 </a>
 
-You can also help us in translation, click status image or <a href="https://hosted.weblate.org/projects/harmony-music/project-translations/"> here </a> to go to Weblate.
+<a href="https://f-droid.org/packages/com.anandnet.harmonymusic">
+  <img src="https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width="250">
+</a>
 
-# Troubleshoot
-* if you are facing Notification control issue or music playback stopped by system optimization, please enable ignore battery optimization option from settings
+---
 
-# License
+## 🌐 Traducción
+
+Puedes ayudar a traducir el proyecto aquí:
+
+👉 https://hosted.weblate.org/projects/harmony-music/project-translations/
+
+---
+
+## 🛠️ Solución de problemas
+
+Si tienes problemas con los controles de notificación o la reproducción en segundo plano:
+
+* Activa la opción **ignorar optimización de batería** desde la configuración del sistema.
+
+---
+
+## 📄 Licencia
+
+```id="d8z8a1"
+Harmony Music es software libre bajo la licencia GPL v3.0 con las siguientes condiciones:
+
+- No se permite usar versiones modificadas para fines comerciales o de lucro.
+- No se permite publicar versiones modificadas en tiendas de código cerrado como Play Store o App Store.
 ```
-Harmony Music is a free software licensed under GPL v3.0 with following condition.
 
-- Copied/Modified version of this software can not be used for 'non-free' and profit purposes.
-- You can not publish copied/modified version of this app on closed source app repository
-  like PlayStore/AppStore.
+---
 
+## ⚠️ Aviso Legal
+
+```id="l5q2o0"
+Este proyecto fue creado con fines educativos.
+
+No está afiliado, patrocinado ni aprobado por ningún proveedor de contenido.
+Todo el contenido (canciones, marcas, etc.) pertenece a sus respectivos propietarios.
+
+El autor no se hace responsable por el uso indebido o posibles infracciones de derechos de autor.
+
+El software se proporciona "tal cual", sin garantías de ningún tipo.
 ```
 
+---
 
-# Disclaimer
-```
-This project has been created while learning & learning is the main intention.
-This project is not sponsored or affiliated with, funded, authorized, endorsed by any content provider.
-Any Song, content, trademark used in this app are intellectual property of their respective owners.
-Harmony music is not responsible for any infringement of copyright or other intellectual property rights that may result
-from the use of the songs and other content available through this app.
+## 📚 Créditos y Referencias
 
-This Software is released "as-is", without any warranty, responsibility or liability.
-In no event shall the Author of this Software be liable for any special, consequential,
-incidental or indirect damages whatsoever (including, without limitation, any 
-other pecuniary loss) arising out of the use of inability to use this product, even if
-Author of this Sotware is aware of the possibility of such damages and known defect.
-```
+* Flutter Documentation
+* Artículos de Suragch
+* API no oficial de YouTube Music (sigma67)
+* Inspiración UI: ViMusic
+* Letras sincronizadas: LRCLIB
+* Integración de playlists: Piped
 
-# Learning References & Credits
-<a href = 'https://docs.flutter.dev/'>Flutter documentation</a> - a best guide to learn cross platform Ui/app developemnt<br/>
-<a href = 'https://suragch.medium.com/'>Suragch</a>'s Article related to Just audio & state management,architectural style<br/>
-<a href = 'https://github.com/sigma67'>sigma67</a>'s unofficial ytmusic api project<br/>
-App UI inspired by <a href = 'https://github.com/vfsfitvnm'>vfsfitvnm</a>'s ViMusic<br/>
-Synced lyrics provided by <a href = 'https://lrclib.net' >LRCLIB</a> <br/>
-<a href = 'https://piped.video' >Piped</a> for playlists.
+---
 
-#### Major Packages used
-* just_audio: ^0.9.40  -  audio player for android
-* media_kit: ^1.1.9 - audio player for linux and windows
-* audio_service: ^0.18.15 - manage background music & platform audio services
-* get: ^4.6.6 -  package for high-performance state management, intelligent dependency injection, and route management
-* youtube_explode_dart: ^2.0.2 - Third party package to provide song url
-* hive: ^2.2.3 - offline db used 
-* hive_flutter: ^1.1.0
+## 🧩 Principales dependencias
 
+* `just_audio` → Reproductor de audio Android
+* `media_kit` → Reproductor para Linux/Windows
+* `audio_service` → Gestión de audio en segundo plano
+* `get` → Manejo de estado y dependencias
+* `youtube_explode_dart` → Obtención de URLs de audio
+* `hive` → Base de datos local
+* `hive_flutter` → Integración con Flutter
+
+---
+
+## 👤 Autor
+
+**Isai Reyes**
+
+---
 
