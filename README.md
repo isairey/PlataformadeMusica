@@ -39,23 +39,12 @@ Aplicación multiplataforma para streaming de música desarrollada con **Flutter
 
 ## 📥 Descarga
 
-> ⚠️ Elige solo una fuente para instalar el APK, no podrás actualizar entre diferentes fuentes.
 
 <a href="https://github.com/isairey/PlataformadeMusica/releases/V1">
   <img src="https://github.com/isairey/PlataformadeMusica/blob/main/don_github.png" width="250">
 </a>
 
-<a href="https://f-droid.org/packages/com.anandnet.harmonymusic">
-  <img src="https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width="250">
-</a>
 
----
-
-## 🌐 Traducción
-
-Puedes ayudar a traducir el proyecto aquí:
-
-👉 https://hosted.weblate.org/projects/harmony-music/project-translations/
 
 ---
 
