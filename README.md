@@ -55,7 +55,7 @@ Si tienes problemas con los controles de notificación o la reproducción en seg
 ## 📄 Licencia
 
 ```id="d8z8a1"
-Harmony Music es software libre bajo la licencia GPL v3.0 con las siguientes condiciones:
+Harmony Music es software libre bajo la licencia GPL v2.1 con las siguientes condiciones:
 
 - No se permite usar versiones modificadas para fines comerciales o de lucro.
 - No se permite publicar versiones modificadas en tiendas de código cerrado como Play Store o App Store.
